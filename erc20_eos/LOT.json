@@ -1,0 +1,25 @@
+{
+  "symbol": "LOT",
+  "account": "lotttttttttt",
+  "precision": 4,
+  "overview": {
+    "en": "EOS dapp token.",
+    "zh": ""
+  },
+  "logo": "",
+  "email": "greatwallet@gmail.com",
+  "website": "https://greatwallet.io",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2018-07-18",
+  "links": {
+    "blog": "https://www.jianshu.com/u/76cabac67aaa",
+    "twitter": "https://twitter.com/@greatwallet1",
+    "telegram": "",
+    "github": "",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
